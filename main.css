@@ -42,7 +42,7 @@
 }
   
 .card__more:active {
-    background-color: rgb(122, 122, 122);
+    background-color: rgb(200, 122, 122);
 }
 
 @media screen and (min-width: 1024px) {
