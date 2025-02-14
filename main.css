@@ -2,13 +2,13 @@
     font-family: "Chakra Petch", serif;
     line-height: 1.3;
     padding: 2rem;
-    background-color: rgb(62, 62, 62);
+    background-color: rgb(80, 80, 62);
     border-radius: 2rem;
     color: white;
 }
   
 .card__title {
-    font-size: 2.5rem;
+    font-size: 5rem;
 }
   
 .card__excerpt {}
